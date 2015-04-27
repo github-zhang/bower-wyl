@@ -1,0 +1,25 @@
+{
+  "name": "bower-wyl",
+  "version": "0.0.1",
+  "description": "weiyilng",
+  "main": "1",
+  "keywords": [
+    "weiyilong"
+  ],
+  "authors": [
+    "weiyilong"
+  ],
+  "license": "11111111111111",
+  "homepage": "zhwnl.cn",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "d3": "~3.5.5"
+  }
+}
